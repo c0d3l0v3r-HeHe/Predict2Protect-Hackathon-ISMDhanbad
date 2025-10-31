@@ -1,0 +1,10 @@
+{
+  "model_name": "Baseline LightGBM",
+  "model_type": "LightGBM",
+  "validation_macro_f1": 0.7794639804318666,
+  "validation_recall": 0.7938144329896907,
+  "validation_auc": 0.8559856932463707,
+  "num_features": 361,
+  "training_samples": 974,
+  "note": "Baseline model selected over tuned versions due to overfitting in tuned models"
+}
